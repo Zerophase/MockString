@@ -1,0 +1,6 @@
+#ifndef MOCKSTRING_LIBRARY_H
+#define MOCKSTRING_LIBRARY_H
+
+void hello();
+
+#endif //MOCKSTRING_LIBRARY_H
